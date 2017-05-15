@@ -1,0 +1,19 @@
+{
+  "name": "autoweb",
+  "version": "1.0.0",
+  "description": "gulp,webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s249359986/learnautoweb.git"
+  },
+  "author": "7ke",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/s249359986/learnautoweb/issues"
+  },
+  "homepage": "https://github.com/s249359986/learnautoweb#readme"
+}
