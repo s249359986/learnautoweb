@@ -4,6 +4,8 @@
   "description": "gulp,webpack",
   "main": "index.js",
   "scripts": {
+    "build":"webpack",
+    "dev":"node_modules/.bin/webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/s249359986/learnautoweb/issues"
   },
-  "homepage": "https://github.com/s249359986/learnautoweb#readme"
+  "homepage": "https://github.com/s249359986/learnautoweb#readme",
+  "devDependencies": {
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
 }
